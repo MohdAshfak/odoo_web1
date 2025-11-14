@@ -20,7 +20,9 @@
         For any questions or support, please contact.
     """,
     'license': 'OPL-1',
-    'support': 'teamxapp.dev@gmail.com',
+    'support': 'teamxapp.dev@gmail.com',  
+    'price': 38.00,
+    'currency': 'USD',
   
 
     'depends': [
