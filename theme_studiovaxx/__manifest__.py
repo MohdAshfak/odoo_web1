@@ -82,8 +82,8 @@
             'theme_studiovaxx/static/src/js/faq.js',
             'theme_studiovaxx/static/src/js/get_in_touch.js',
             'theme_studiovaxx/static/src/js/sub_moving_text.js',
-            'theme_studiovax/static/src/js/sub_banner.js',
-            'theme_studiovax/static/src/js/meet_our_team.js',
+            'theme_studiovaxx/static/src/js/sub_banner.js',
+            'theme_studiovaxx/static/src/js/meet_our_team.js',
         ],
     },
 
