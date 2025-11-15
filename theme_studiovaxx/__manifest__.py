@@ -21,7 +21,7 @@
     """,
     'license': 'OPL-1',
     'support': 'teamxapp.dev@gmail.com',  
-    'price': 0.011,
+    'price': 38.11,
     'currency': 'USD',
   
 
