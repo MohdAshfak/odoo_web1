@@ -94,7 +94,7 @@
 
     ],
 
-    'live_test_url': 'http://13.60.52.65:8069',
+    'live_test_url': 'studiova.xappco.site',
     'installable': True,
     'auto_install': False,
     'application': False,
